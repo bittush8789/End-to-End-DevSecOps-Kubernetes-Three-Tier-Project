@@ -1,5 +1,3 @@
-# #TWSThreeTierAppChallenge
-
 
 ## Prerequisites
 - Basic knowledge of Docker, and AWS services.
@@ -43,7 +41,7 @@ The `Kubernetes-Manifests-Files` directory holds Kubernetes manifests for deploy
 📈 **The journey covered everything from setting up tools to deploying a Three-Tier app, ensuring data persistence, and implementing CI/CD pipelines.**
 
 ## Getting Started
-To get started with this project, refer to our [comprehensive guide]() that walks you through IAM user setup, infrastructure provisioning, CI/CD pipeline configuration, EKS cluster creation, and more.
+To get started with this project, refer to our [comprehensive guide](https://medium.com/@bittush9534/three-tier-devsecops-project-on-aws-eks-with-argocd-prometheus-grafana-and-jenkins-for-b0ce3d640db6) that walks you through IAM user setup, infrastructure provisioning, CI/CD pipeline configuration, EKS cluster creation, and more.
 
 ### Step 1: IAM Configuration
 - Create a user `eks-admin` with `AdministratorAccess`.
